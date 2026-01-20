@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+maybe it can intergrate the mcp? [...]
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+when you submit the input,the ds will directly enable the mcp and do the job.
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+maybe u guys can work with app like wps,and it may be intergrated in wps.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+hope u guys can be china github.
